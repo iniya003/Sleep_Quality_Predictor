@@ -1,0 +1,14 @@
+Age,Gender,Sleep_Duration,Stress_Level,Physical_Activity,BMI,Quality
+25,Male,6,7,3,25,Average
+30,Female,8,3,5,22,Good
+40,Male,5,8,2,28,Poor
+35,Female,7,4,4,23,Good
+28,Male,6,6,3,26,Average
+32,Female,7,5,4,24,Average
+45,Male,4,9,1,30,Poor
+50,Female,6,6,2,27,Average
+29,Male,8,3,5,22,Good
+38,Female,5,8,2,29,Poor
+33,Male,7,4,4,25,Average
+26,Female,8,2,5,21,Good
+41,Male,5,7,2,28,Poor
